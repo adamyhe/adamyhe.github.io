@@ -2,7 +2,7 @@
 
 Computational biologist interested in applications of machine learning to transcriptional regulation, variant effect prediction, and population genetics.
 
-Currently a PhD candidate @Danko-lab at Cornell University
+Currently a PhD candidate in the [Danko lab](https://www.dankolab.org/) at Cornell University
 
 <!--
 **adamyhe/adamyhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
