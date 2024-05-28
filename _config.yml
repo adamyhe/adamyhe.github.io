@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Ithaca, NY"
   employer         : "Cornell University"
-  uri              : # URL
+  uri              : "https://adamyhe.github.io/adamyhe/"
   email            : "ayh8@cornell.edu" 
 
   # Academic websites
