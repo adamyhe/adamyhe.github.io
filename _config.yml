@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Adam Y. He"
 title_separator          : "-"
 name                     : &name "Adam Y. He"
-description              : &description "Computational biologist, PhD candidate."
+description              : &description "Computational biologist"
 url                      : https://adamyhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adamyhe/adamyhe.github.io"
@@ -21,7 +21,7 @@ repository               : "adamyhe/adamyhe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "31111759.jpeg"
   name             : "Adam Y. He"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Cornell University. Transcriptional regulation, machine learning, population genetics"
