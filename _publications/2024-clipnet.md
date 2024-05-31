@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2024_clipnet
 date: 2024-03-13
 venue: 'BioRxiv'
-slidesurl: 'http://adamyhe.github.io/files/adamhe_mechanisms2023.pdf'
-paperurl: 'http://adamyhe.github.io/files/CLIPNET_bioRxiv.pdf'
+slidesurl: 'http://adamyhe.github.io/adamyhe/files/adamhe_mechanisms2023.pdf'
+paperurl: 'http://adamyhe.github.io/adamyhe/files/CLIPNET_bioRxiv.pdf'
 citation: '<strong>A. Y. He</strong> and C. G. Danko. Dissection of core promoter syntax through single nucleotide resolution modeling of transcription initiation. <em>BioRxiv</em>. doi:10.1101/2024.03.13.583868'
 ---
 
