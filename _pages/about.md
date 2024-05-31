@@ -12,6 +12,9 @@ Website still in development!
 My work and research
 ======
 
+Placeholder
+
 My background and history
 ======
 
+Placeholder
