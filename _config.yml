@@ -27,7 +27,7 @@ author:
   bio              : "PhD candidate at Cornell University. Transcriptional regulation, machine learning, population genetics"
   location         : "Ithaca, NY"
   employer         : "Cornell University"
-  uri              : "https://adamyhe.github.io/adamyhe/"
+#  uri              : "https://adamyhe.github.io/adamyhe/"
   email            : "ayh8@cornell.edu" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2084-6970"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=adam+he"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=adam+youlin+he"
   researchgate     : # URL
 
   # Repositories and software development
