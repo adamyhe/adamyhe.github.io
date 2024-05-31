@@ -2,7 +2,6 @@
 title: "Dissection of core promoter syntax through single nucleotide resolution modeling of transcription initiation"
 collection: publications
 permalink: /publication/2024_clipnet
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-03-13
 venue: 'BioRxiv'
 slidesurl: 'http://adamyhe.github.io/files/adamhe_mechanisms2023.pdf'
