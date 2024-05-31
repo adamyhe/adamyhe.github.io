@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Dissection of core promoter syntax through single nucleotide resolution modeling of transcription initiation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024_clipnet
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2024-03-13
+venue: 'BioRxiv'
+slidesurl: 'http://adamyhe.github.io/files/adamhe_mechanisms2023.pdf'
+paperurl: 'http://adamyhe.github.io/files/CLIPNET_bioRxiv.pdf'
+citation: '<strong>A. Y. He</strong> and C. G. Danko. Dissection of core promoter syntax through single nucleotide resolution modeling of transcription initiation. <em>BioRxiv</em>. doi:10.1101/2024.03.13.583868'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Our understanding of how the DNA sequences of cis-regulatory elements encode transcription initiation patterns remains limited. Here we introduce CLIPNET, a deep learning model trained on population-scale PRO-cap data that accurately predicts the position and quantity of transcription initiation with single nucleotide resolution from DNA sequence. Interpretation of CLIPNET revealed a complex regulatory syntax consisting of DNA-protein interactions in five major positions between −200 and +50 bp relative to the transcription start site, as well as more subtle positional preferences among different transcriptional activators. Transcriptional activator and core promoter motifs occupy different positions and play distinct roles in regulating initiation, with the former driving initiation quantity and the latter initiation position. We identified core promoter motifs that explain initiation patterns in the majority of promoters and enhancers, including DPR motifs and AT-rich TBP binding sequences in TATA-less promoters. Our results provide insights into the sequence architecture governing transcription initiation.
