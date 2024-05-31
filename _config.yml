@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adam Y. He"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Adam Y. He"
 description              : &description "Computational biologist"
