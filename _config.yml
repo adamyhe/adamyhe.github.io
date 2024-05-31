@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Adam Y. He"
 description              : &description "Computational biologist"
 url                      : https://adamyhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "adamyhe/adamyhe.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -46,6 +46,8 @@ author:
   github           : "adamyhe"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  huggingface      : "adamyhe"
+  zenodo           : "adamyhe"
 
   # Social media
   bluesky          : "missingarib" # Replace this with you Bluesky username
@@ -57,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "adam-he-a929ba51"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -227,7 +229,7 @@ defaults:
   #    comments: true
   #    share: true
   #    related: true
-  _pages
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -243,7 +245,7 @@ defaults:
   #    author_profile: true
   #    share: true
   #    comments: true
-  _publications
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -261,7 +263,7 @@ defaults:
   #    author_profile: true
   #    share: true
   #    comment: true
-  _talks
+  # _talks
   - scope:
       path: ""
       type: talks
@@ -281,7 +283,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
