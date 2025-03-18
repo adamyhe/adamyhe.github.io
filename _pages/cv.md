@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Computational Biology, Cornell University, 2014 (expected)
+* Ph.D. in Computational Biology, Cornell University, 2025 (expected)
 * B.A. in Biology and Mathematics, Pomona College, 2017
 
 Work experience
 ======
 
-* 2022 -: Intern and consultant
+* 2022: PhD Intern
   * Medical Affairs, Regeneron Pharmaceuticals
   * Developed machine learning models to identify predictors of NSCLC patient outcomes.
 
@@ -33,10 +33,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
