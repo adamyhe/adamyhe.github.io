@@ -9,12 +9,7 @@ redirect_from:
 
 Website still in development!
 
-My work and research
+About Me
 ======
 
-Placeholder
-
-My background and history
-======
-
-Placeholder
+Placeholder text
