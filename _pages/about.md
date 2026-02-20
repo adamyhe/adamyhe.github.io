@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Website still in development!
-
 About Me
 ======
 
-Computational biologist interested in applications of machine learning to transcriptional regulation, variant effect prediction, and population genetics.
+I am a computational biologist/bioinformatician. My primary research interests lie in using machine learning models decipher how gene regulation is encoded in our genomes. I've also worked on variant effect and complex disease risk prediction.
 
-Currently a PhD candidate in the Danko lab at Cornell University
+Currently, I am a postdoc with Anshul Kundaje at Stanford. Previously, I did my PhD with Charles Danko at Cornell.
