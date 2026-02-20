@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 You can download my CV [here](/files/adamhe_cv.pdf).
+
+<iframe src="/files/adamhe_cv.pdf" width="100%" height="800" style="border: none;"></iframe>
