@@ -24,11 +24,11 @@ author:
   avatar           : "31111759.jpeg"
   name             : "Adam Y. He"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at Cornell University. Transcriptional regulation, machine learning, population genetics"
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "Postdoctoral Scholar at Stanford University. Transcriptional regulation, machine learning, population genetics"
+  location         : "Stanford, CA"
+  employer         : "Stanford University"
 #  uri              : "https://adamyhe.github.io/adamyhe/"
-  email            : "ayh8@cornell.edu" 
+  email            : "ayhe@stanford.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
