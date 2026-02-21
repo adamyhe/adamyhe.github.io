@@ -27,7 +27,7 @@ author:
   bio              : "Genomics, gene regulation, and machine learning"
 #  location         : "Stanford, CA"
   employer         : "Stanford University"
-  uri              : "https://adamyhe.github.io/"
+#  uri              : "https://adamyhe.github.io/"
   email            : "ayhe@stanford.edu"
 
   # Academic websites
