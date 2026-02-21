@@ -50,7 +50,9 @@ author:
   zenodo           : "adamyhe"
 
   # Social media
-  bluesky          : "missingarib" # Replace this with you Bluesky username
+  twitter          : "missing_a_rib"
+  bluesky          : "missingarib"
+  linkedin         : "adam-he-a929ba51"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +61,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "adam-he-a929ba51"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,7 +68,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "missing_a_rib"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
